@@ -40,7 +40,7 @@ Lista de tarefas com operações CRD.
 
 >Primeiro faça o clone deste repositório em sua maquina.
 ```
-git clone git@github.com:Adson-Gomes-Oliveira/Pixels-Art.git
+git clone git@github.com:Adson-Gomes-Oliveira/To-Do-List.git
 ```
 >Utilize o comando `npm install` para instalar as dependências caso queira utilizar o eslint.
 
