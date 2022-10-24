@@ -42,7 +42,7 @@ Lista de tarefas com operações CRD.
 ```
 git clone git@github.com:Adson-Gomes-Oliveira/Pixels-Art.git
 ```
->Utilize o comando `npm install` para instalar as dependências caso queira utilizar o eslint
+>Utilize o comando `npm install` para instalar as dependências caso queira utilizar o eslint.
 
 >Utilize o live server no vscode para iniciar o projeto localmente ou abra o projeto html no navegador.
 
